@@ -19,11 +19,17 @@ It covers the full data pipeline:
 ## Project Structure
 
 /data		→ Original CSVs and SQLite database
+
 /notebooks	→ Jupyter Notebooks (geometry, images, clinical data)
+
 /src		→ Custom Python implementation of Diffusion Maps
+
 /sql		→ SQL scripts to create and query the clinical database
+
 /sas		→ SAS code for CDISC-style datasets (DM,LB,ADSL...)
+
 /r		→ R scripts for PCA/UMAP comparisons
+
 /output		→ Plots, exports, and results 
 
 ---
