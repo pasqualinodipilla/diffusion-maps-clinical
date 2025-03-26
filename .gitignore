@@ -172,3 +172,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Notebook Jupyter
+.ipynb_checkpoints/
+
+# Dati
+/data/*.csv
+/data/*.db
+
+# Output e file generati
+/output/
+
+# SAS
+*.sas7bdat
+*.xpt
+*.lst
+*.log
+
+# Sistema (macOS / Windows)
+.DS_Store
+Thumbs.db
